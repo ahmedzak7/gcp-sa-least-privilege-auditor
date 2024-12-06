@@ -1,4 +1,3 @@
-# gcp-sa-least-privilege-auditor
 # GCP Service Account Least Privilege Auditor
 
 This script helps you nail down least privilege by precisely tracking the permissions actually used by GCP service accounts within a project.
