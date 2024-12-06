@@ -19,7 +19,7 @@ This script helps you nail down least privilege by precisely tracking the permis
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/gcp-sa-least-privilege-auditor.git
+    git clone https://github.com/ahmedzak7/gcp-sa-least-privilege-auditor.git
     cd gcp-sa-least-privilege-auditor
     ```
 
